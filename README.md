@@ -1,4 +1,4 @@
-[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)]
+![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 <h1 align="center">Hi 👋, I'm Marzouk Rayen</h1>
 <h3 align="center">I am a student IT who is driven by my thirst for knowledge and deep passion for learning new things about software development. I enjoy diving into new challenges for the purpose of learning</h3>
 
