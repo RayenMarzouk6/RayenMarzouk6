@@ -1,8 +1,7 @@
 ![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 <h1 align="center">Hi 👋, I'm Marzouk Rayen</h1>
+<h3 align="center">I am a student IT who is driven by my thirst for knowledge and deep passion for learning new things about software development. I enjoy diving into new challenges for the purpose of learning</h3>
 
-
-<img align="right" alt="Coding" with="150" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/rayen-marzouk-109a3226a/](https://www.linkedin.com/in/rayen-marzouk-109a3226a/)
 
