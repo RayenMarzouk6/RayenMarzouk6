@@ -83,6 +83,9 @@ I'm an **IT student** driven by my thirst for knowledge and deep passion for lea
 <td width="50%"> 
 
 ### 🎥 [accesskey Attribute HTML](https://youtu.be/ixi9KLdBfFQ?si=BH5ozne_TNrAGPO4)
+
+[![accesskey Attribute HTML](https://img.youtube.com/vi/ixi9KLdBfFQ/mqdefault.jpg)](https://youtu.be/ixi9KLdBfFQ?si=BH5ozne_TNrAGPO4)
+
 **Description:** Learn about the accesskey attribute in HTML and how it can improve accessibility and user navigation in web applications.
 * 👀 Views: 88 views
 * 📅 Published: 1 year ago
@@ -91,6 +94,9 @@ I'm an **IT student** driven by my thirst for knowledge and deep passion for lea
 <td width="50%"> 
 
 ### 🎥 [How to Design a Behance Cover in Figma](https://youtu.be/pxtOv_D1Klk?si=zdqWvHe5xLk56J5M)
+
+[![How to Design a Behance Cover in Figma](https://img.youtube.com/vi/pxtOv_D1Klk/mqdefault.jpg)](https://youtu.be/pxtOv_D1Klk?si=zdqWvHe5xLk56J5M)
+
 **Description:** Step-by-step tutorial on creating professional Behance portfolio covers using Figma design tools and best practices.
 * 👀 Views: 334 views
 * 📅 Published: 8 months ago
@@ -101,6 +107,9 @@ I'm an **IT student** driven by my thirst for knowledge and deep passion for lea
 <td width="50%"> 
 
 ### 🎥 [What is Scrum - Agile Method](https://youtu.be/C3Aauq3T-dg?si=GaodSKNB_RCaiko7)
+
+[![What is Scrum - Agile Method](https://img.youtube.com/vi/C3Aauq3T-dg/mqdefault.jpg)](https://youtu.be/C3Aauq3T-dg?si=GaodSKNB_RCaiko7)
+
 **Description:** Comprehensive overview of Scrum methodology and agile development practices for project management and software development.
 * 👀 Views: 105 views
 * 📅 Published: 2 months ago
@@ -109,6 +118,9 @@ I'm an **IT student** driven by my thirst for knowledge and deep passion for lea
 <td width="50%"> 
 
 ### 🎥 [The Difference Between ORMs: TypeORM vs Prisma vs Sequelize](https://youtu.be/kdsvEuXJWjU?si=ZJ_QBpsNKbpiXVBu)
+
+[![The Difference Between ORMs](https://img.youtube.com/vi/kdsvEuXJWjU/mqdefault.jpg)](https://youtu.be/kdsvEuXJWjU?si=ZJ_QBpsNKbpiXVBu)
+
 **Description:** In-depth comparison of popular Object-Relational Mapping tools, exploring their features, performance, and use cases for database management.
 * 👀 Views: 438 views
 * 📅 Published: 2 months ago
@@ -124,7 +136,6 @@ I'm an **IT student** driven by my thirst for knowledge and deep passion for lea
 </div>
 
 </div>
-
 
 
 
