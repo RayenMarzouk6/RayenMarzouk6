@@ -1,11 +1,8 @@
 # Hi there! 👋 I'm Marzouk Rayen
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=IT+Student+%26+Software+Developer;Passionate+About+Learning;Always+Ready+for+New+Challenges!" alt="Typing SVG" />
+  <img src="https://github.com/user-attachments/assets/77fa52fd-9f3b-4286-b124-54c7a077ebb6" alt="Rayen Marzouk" width="435" />
 </div>
-
-![Rayen Marzouk (1)](https://github.com/user-attachments/assets/77fa52fd-9f3b-4286-b124-54c7a077ebb6)
-
 
 ## 🚀 About Me
 
@@ -89,6 +86,20 @@ I'm an **IT student** driven by my thirst for knowledge and deep passion for lea
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
+
+## 💡 Featured Projects
+
+Here are some of my notable projects:
+
+### 🌟 [Project Name 1](link-to-project)
+**Description**: Brief description of what this project does
+- **Tech Stack**: Technology used
+- **Features**: Key features
+
+### 🌟 [Project Name 2](link-to-project)
+**Description**: Brief description of what this project does
+- **Tech Stack**: Technology used
+- **Features**: Key features
 
 ## 📊 Profile Views
 <div align="center">
