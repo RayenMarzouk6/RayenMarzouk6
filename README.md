@@ -1,5 +1,7 @@
 # Hi there! 👋 I'm Marzouk Rayen
 
+**`Software Developer | UX/UI Designer | DevOps & Cloud Enthusiast`**
+
 <div align="center">
   <img align="right" src="https://github.com/user-attachments/assets/3a1cfee4-53ff-49b1-ac3e-73f884df6d29" alt="Rayen Marzouk" width="400" />
 </div>
@@ -65,6 +67,21 @@ I'm an **IT student** driven by my thirst for knowledge and deep passion for lea
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 📊 GitHub Stats
 
