@@ -76,61 +76,54 @@ I'm an **IT student** driven by my thirst for knowledge and deep passion for lea
 
 ## 📺 Latest YouTube Videos
 
-<div align="center">
-  
-[![YouTube Channel](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MarzoukRayen)
+<div align="center"> 
+
+<table> 
+<tr> 
+<td width="50%"> 
+
+### 🎥 [accesskey Attribute HTML](https://youtu.be/ixi9KLdBfFQ?si=BH5ozne_TNrAGPO4)
+**Description:** Learn about the accesskey attribute in HTML and how it can improve accessibility and user navigation in web applications.
+* 👀 Views: 88 views
+* 📅 Published: 1 year ago
+
+</td> 
+<td width="50%"> 
+
+### 🎥 [How to Design a Behance Cover in Figma](https://youtu.be/pxtOv_D1Klk?si=zdqWvHe5xLk56J5M)
+**Description:** Step-by-step tutorial on creating professional Behance portfolio covers using Figma design tools and best practices.
+* 👀 Views: 334 views
+* 📅 Published: 8 months ago
+
+</td> 
+</tr> 
+<tr> 
+<td width="50%"> 
+
+### 🎥 [What is Scrum - Agile Method](https://youtu.be/C3Aauq3T-dg?si=GaodSKNB_RCaiko7)
+**Description:** Comprehensive overview of Scrum methodology and agile development practices for project management and software development.
+* 👀 Views: 105 views
+* 📅 Published: 2 months ago
+
+</td> 
+<td width="50%"> 
+
+### 🎥 [The Difference Between ORMs: TypeORM vs Prisma vs Sequelize](https://youtu.be/kdsvEuXJWjU?si=ZJ_QBpsNKbpiXVBu)
+**Description:** In-depth comparison of popular Object-Relational Mapping tools, exploring their features, performance, and use cases for database management.
+* 👀 Views: 438 views
+* 📅 Published: 2 months ago
+
+</td> 
+</tr> 
+</table> 
+
+<div align="center"> 
+
+### 🔔 [Subscribe for more programming tutorials and tech content!](https://youtube.com/@YourChannelName)
 
 </div>
 
-<table>
-<tr>
-<td width="50%">
-
-### 🎥 Video 1 Title
-[![Video 1](https://img.youtube.com/vi/YOUR_VIDEO_ID_1/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_1)
-**Description:** Brief description of your video
-- 👀 Views: X views
-- 📅 Published: Date
-
-</td>
-<td width="50%">
-
-### 🎥 Video 2 Title
-[![Video 2](https://img.youtube.com/vi/YOUR_VIDEO_ID_2/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_2)
-**Description:** Brief description of your video
-- 👀 Views: X views  
-- 📅 Published: Date
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎥 Video 3 Title
-[![Video 3](https://img.youtube.com/vi/YOUR_VIDEO_ID_3/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_3)
-**Description:** Brief description of your video
-- 👀 Views: X views
-- 📅 Published: Date
-
-</td>
-<td width="50%">
-
-### 🎥 Video 4 Title
-[![Video 4](https://img.youtube.com/vi/YOUR_VIDEO_ID_4/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_4)
-**Description:** Brief description of your video
-- 👀 Views: X views
-- 📅 Published: Date
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-  
-### 🔔 [Subscribe for more content!](https://www.youtube.com/@MarzoukRayen)
-  
 </div>
-
 
 
 
