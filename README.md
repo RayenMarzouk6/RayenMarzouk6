@@ -4,8 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=IT+Student+%26+Software+Developer;Passionate+About+Learning;Always+Ready+for+New+Challenges!" alt="Typing SVG" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-![Uploading Rayen Marzouk.gif…]()
+![Rayen Marzouk (1)](https://github.com/user-attachments/assets/77fa52fd-9f3b-4286-b124-54c7a077ebb6)
+
 
 ## 🚀 About Me
 
