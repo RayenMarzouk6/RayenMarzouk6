@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Marzouk Rayen
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/77fa52fd-9f3b-4286-b124-54c7a077ebb6" alt="Rayen Marzouk" width="435" />
+  <img align="right" src="https://github.com/user-attachments/assets/77fa52fd-9f3b-4286-b124-54c7a077ebb6" alt="Rayen Marzouk" width="435" />
 </div>
 
 ## 🚀 About Me
