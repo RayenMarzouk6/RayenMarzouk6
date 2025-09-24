@@ -75,8 +75,61 @@ I'm an **IT student** driven by my thirst for knowledge and deep passion for lea
 
 
 ## 📺 Latest YouTube Videos
-<!-- BEGIN YOUTUBE-CARDS -->
-<!-- END YOUTUBE-CARDS -->
+
+<div align="center">
+  
+[![YouTube Channel](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MarzoukRayen)
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎥 Video 1 Title
+[![Video 1](https://img.youtube.com/vi/YOUR_VIDEO_ID_1/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_1)
+**Description:** Brief description of your video
+- 👀 Views: X views
+- 📅 Published: Date
+
+</td>
+<td width="50%">
+
+### 🎥 Video 2 Title
+[![Video 2](https://img.youtube.com/vi/YOUR_VIDEO_ID_2/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_2)
+**Description:** Brief description of your video
+- 👀 Views: X views  
+- 📅 Published: Date
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎥 Video 3 Title
+[![Video 3](https://img.youtube.com/vi/YOUR_VIDEO_ID_3/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_3)
+**Description:** Brief description of your video
+- 👀 Views: X views
+- 📅 Published: Date
+
+</td>
+<td width="50%">
+
+### 🎥 Video 4 Title
+[![Video 4](https://img.youtube.com/vi/YOUR_VIDEO_ID_4/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_4)
+**Description:** Brief description of your video
+- 👀 Views: X views
+- 📅 Published: Date
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  
+### 🔔 [Subscribe for more content!](https://www.youtube.com/@MarzoukRayen)
+  
+</div>
 
 
 
