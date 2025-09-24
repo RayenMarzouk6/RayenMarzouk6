@@ -72,8 +72,6 @@ I'm an **IT student** driven by my thirst for knowledge and deep passion for lea
 
 
 
-
-
 ## 📺 Latest YouTube Videos
 
 <div align="center"> 
@@ -139,7 +137,9 @@ I'm an **IT student** driven by my thirst for knowledge and deep passion for lea
 
 
 
-
+<div align="center">
+  <img align="right" src="https://github.com/user-attachments/assets/e1aa916d-e323-419b-9b3b-becbdbaaad60" alt="Rayen Marzouk" width="480" />
+</div>
 
 
 ## 📊 GitHub Stats
@@ -148,34 +148,6 @@ I'm an **IT student** driven by my thirst for knowledge and deep passion for lea
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=tokyonight&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
-## 💡 Featured Projects
-
-Here are some of my notable projects:
-
-### 🌟 [Project Name 1](link-to-project)
-**Description**: Brief description of what this project does
-- **Tech Stack**: Technology used
-- **Features**: Key features
-
-### 🌟 [Project Name 2](link-to-project)
-**Description**: Brief description of what this project does
-- **Tech Stack**: Technology used
-- **Features**: Key features
 
 ## 📊 Profile Views
 <div align="center">
