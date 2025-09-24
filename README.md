@@ -138,7 +138,7 @@ I'm an **IT student** driven by my thirst for knowledge and deep passion for lea
 
 
 <div align="center">
-  <img align="right" src="https://github.com/user-attachments/assets/e1aa916d-e323-419b-9b3b-becbdbaaad60" alt="Rayen Marzouk" width="480" />
+  <img src="https://github.com/user-attachments/assets/e1aa916d-e323-419b-9b3b-becbdbaaad60" alt="Rayen Marzouk" width="480" />
 </div>
 
 
@@ -146,7 +146,6 @@ I'm an **IT student** driven by my thirst for knowledge and deep passion for lea
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 ## 📊 Profile Views
