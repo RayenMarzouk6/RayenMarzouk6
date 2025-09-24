@@ -5,6 +5,7 @@
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+![Uploading Rayen Marzouk.gif…]()
 
 ## 🚀 About Me
 
@@ -88,20 +89,6 @@ I'm an **IT student** driven by my thirst for knowledge and deep passion for lea
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
-
-## 💡 Featured Projects
-
-Here are some of my notable projects:
-
-### 🌟 [Project Name 1](link-to-project)
-**Description**: Brief description of what this project does
-- **Tech Stack**: Technology used
-- **Features**: Key features
-
-### 🌟 [Project Name 2](link-to-project)
-**Description**: Brief description of what this project does
-- **Tech Stack**: Technology used
-- **Features**: Key features
 
 ## 📊 Profile Views
 <div align="center">
