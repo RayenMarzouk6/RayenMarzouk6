@@ -182,14 +182,15 @@ Practical experience designing scalable, secure, and cost-optimized cloud archit
 
 | | |
 |---|---|
-| [![ORM Comparison](https://img.youtube.com/vi/kdsvEuXJWjU/mqdefault.jpg)](https://youtu.be/kdsvEuXJWjU) | [![Scrum Agile](https://img.youtube.com/vi/C3Aauq3T-dg/mqdefault.jpg)](https://youtu.be/C3Aauq3T-dg) |
-| **[TypeORM vs Prisma vs Sequelize](https://youtu.be/kdsvEuXJWjU)** · 438 views | **[What is Scrum — Agile Method](https://youtu.be/C3Aauq3T-dg)** · 105 views |
-| [![Figma Behance](https://img.youtube.com/vi/pxtOv_D1Klk/mqdefault.jpg)](https://youtu.be/pxtOv_D1Klk) | [![HTML accesskey](https://img.youtube.com/vi/ixi9KLdBfFQ/mqdefault.jpg)](https://youtu.be/ixi9KLdBfFQ) |
-| **[Design a Behance Cover in Figma](https://youtu.be/pxtOv_D1Klk)** · 334 views | **[accesskey Attribute in HTML](https://youtu.be/ixi9KLdBfFQ)** · 88 views |
+| [![Scrum Agile](https://img.youtube.com/vi/C3Aauq3T-dg/mqdefault.jpg)](https://youtu.be/C3Aauq3T-dg?si=1mxErriw66BfQ95g) | [![Architecture](https://img.youtube.com/vi/qvnhtFGboBw/mqdefault.jpg)](https://youtu.be/qvnhtFGboBw?si=vhw2BJnAWtZubc4d) |
+| **[شنوة Scrum؟ — Méthodologie Agile ببساطة](https://youtu.be/C3Aauq3T-dg?si=1mxErriw66BfQ95g)** · 2,057 views · 98 👍 | **[كيفاش تختار Architecture للـ Project؟ MVC, MVVM, MVP](https://youtu.be/qvnhtFGboBw?si=vhw2BJnAWtZubc4d)** · 863 views · 62 👍 |
+| [![RAG](https://img.youtube.com/vi/o0V4fYms7kQ/mqdefault.jpg)](https://youtu.be/o0V4fYms7kQ?si=PXSpIlsRgzunKFea) | [![ORM Comparison](https://img.youtube.com/vi/kdsvEuXJWjU/mqdefault.jpg)](https://youtu.be/kdsvEuXJWjU?si=Oq1kiDNzlmD-9tel) |
+| **[RAG Explained — FAISS, LangChain, Fine-Tuning (بالتونسي)](https://youtu.be/o0V4fYms7kQ?si=PXSpIlsRgzunKFea)** · 671 views · 63 👍 | **[شنوة ORM؟ — TypeORM vs Prisma vs Sequelize](https://youtu.be/kdsvEuXJWjU?si=Oq1kiDNzlmD-9tel)** · 716 views · 26 👍 |
 
 🔔 **[Subscribe for more dev tutorials →](https://www.youtube.com/@MarzoukRayen)**
 
 </div>
+
 
 ---
 
