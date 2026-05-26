@@ -1,168 +1,222 @@
-# Hi there! 👋 I'm Marzouk Rayen
-
-**`Software Developer | UX/UI Designer | DevOps & Cloud Enthusiast`**
-
 <div align="center">
-  <img align="right" src="https://github.com/user-attachments/assets/3a1cfee4-53ff-49b1-ac3e-73f884df6d29" alt="Rayen Marzouk" width="400" />
-</div>
 
+```
+██████╗  █████╗ ██╗   ██╗███████╗███╗   ██╗    ███╗   ███╗ █████╗ ██████╗ ███████╗ ██████╗ ██╗   ██╗██╗  ██╗
+██╔══██╗██╔══██╗╚██╗ ██╔╝██╔════╝████╗  ██║    ████╗ ████║██╔══██╗██╔══██╗╚════██║██╔═══██╗██║   ██║██║ ██╔╝
+██████╔╝███████║ ╚████╔╝ █████╗  ██╔██╗ ██║    ██╔████╔██║███████║██████╔╝    ██╔╝██║   ██║██║   ██║█████╔╝ 
+██╔══██╗██╔══██║  ╚██╔╝  ██╔══╝  ██║╚██╗██║    ██║╚██╔╝██║██╔══██║██╔══██╗   ██╔╝ ██║   ██║██║   ██║██╔═██╗ 
+██║  ██║██║  ██║   ██║   ███████╗██║ ╚████║    ██║ ╚═╝ ██║██║  ██║██║  ██║   ██║  ╚██████╔╝╚██████╔╝██║  ██╗
+╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═══╝    ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═════╝  ╚═════╝ ╚═╝  ╚═╝
+```
 
+### Full-Stack Developer · Cloud & DevOps · UX/UI Designer · IT Content Creator
 
-## 🚀 About Me
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-marzoukrayen.netlify.app-1D9E75?style=for-the-badge)](https://marzoukrayen.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rayen--marzouk-0a77b6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayen-marzouk-109a3226a/)
+[![Behance](https://img.shields.io/badge/Behance-marzoukrayen-0057ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/marzoukrayen)
+[![YouTube](https://img.shields.io/badge/YouTube-@MarzoukRayen-cc0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MarzoukRayen)
+[![Email](https://img.shields.io/badge/Email-marzoukrayen99@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marzoukrayen99@gmail.com)
 
-I'm an **IT student** driven by my thirst for knowledge and deep passion for learning new things about software development. I enjoy diving into new challenges for the purpose of learning and growing as a developer.
-
-- 🌱 I'm currently learning **Advanced JavaScript & Modern Frameworks**
-- 💻 I love working on **Full-Stack Development** projects
-- 🎯 My goal is to become a **proficient software developer**
-- ⚡ Fun fact: I believe every bug is just an undiscovered feature!
-
-![me](./images/Rayen1.gif)
-![me](./images/Rayen2.gif)
-
-## ⚡️ Where to find me
-
-<p>
-<a target="_blank" href="https://marzoukrayen.netlify.app/"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="portfolio" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/rayen-marzouk-109a3226a/"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.behance.net/marzoukrayen"><img src="https://img.shields.io/badge/behance-logo?style=for-the-badge&logo=behance&logoColor=white&color=%230057ff" alt="behance" /></a>
-<a target="_blank" href="https://www.youtube.com/@MarzoukRayen"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a>
-</p>
-
-## 🚀 Languages and Tools I Use
-
-<p>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://angular.io/assets/images/logos/angular/angular.svg"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="42" height="42" /></a>
-<a target="_blank" href="https://reactnative.dev/img/header_logo.svg"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="42" height="42" /></a>
-<a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="42" height="42" /></a>
-<a target="_blank" href="https://www.chartjs.org/media/logo-title.svg"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg"><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-</p>
-
-
-
-
-
-## 📺 Latest YouTube Videos
-
-<div align="center"> 
-
-<table> 
-<tr> 
-<td width="50%"> 
-
-### 🎥 [accesskey Attribute HTML](https://youtu.be/ixi9KLdBfFQ?si=BH5ozne_TNrAGPO4)
-
-[![accesskey Attribute HTML](https://img.youtube.com/vi/ixi9KLdBfFQ/mqdefault.jpg)](https://youtu.be/ixi9KLdBfFQ?si=BH5ozne_TNrAGPO4)
-
-**Description:** Learn about the accesskey attribute in HTML and how it can improve accessibility and user navigation in web applications.
-* 👀 Views: 88 views
-* 📅 Published: 1 year ago
-
-</td> 
-<td width="50%"> 
-
-### 🎥 [How to Design a Behance Cover in Figma](https://youtu.be/pxtOv_D1Klk?si=zdqWvHe5xLk56J5M)
-
-[![How to Design a Behance Cover in Figma](https://img.youtube.com/vi/pxtOv_D1Klk/mqdefault.jpg)](https://youtu.be/pxtOv_D1Klk?si=zdqWvHe5xLk56J5M)
-
-**Description:** Step-by-step tutorial on creating professional Behance portfolio covers using Figma design tools and best practices.
-* 👀 Views: 334 views
-* 📅 Published: 8 months ago
-
-</td> 
-</tr> 
-<tr> 
-<td width="50%"> 
-
-### 🎥 [What is Scrum - Agile Method](https://youtu.be/C3Aauq3T-dg?si=GaodSKNB_RCaiko7)
-
-[![What is Scrum - Agile Method](https://img.youtube.com/vi/C3Aauq3T-dg/mqdefault.jpg)](https://youtu.be/C3Aauq3T-dg?si=GaodSKNB_RCaiko7)
-
-**Description:** Comprehensive overview of Scrum methodology and agile development practices for project management and software development.
-* 👀 Views: 105 views
-* 📅 Published: 2 months ago
-
-</td> 
-<td width="50%"> 
-
-### 🎥 [The Difference Between ORMs: TypeORM vs Prisma vs Sequelize](https://youtu.be/kdsvEuXJWjU?si=ZJ_QBpsNKbpiXVBu)
-
-[![The Difference Between ORMs](https://img.youtube.com/vi/kdsvEuXJWjU/mqdefault.jpg)](https://youtu.be/kdsvEuXJWjU?si=ZJ_QBpsNKbpiXVBu)
-
-**Description:** In-depth comparison of popular Object-Relational Mapping tools, exploring their features, performance, and use cases for database management.
-* 👀 Views: 438 views
-* 📅 Published: 2 months ago
-
-</td> 
-</tr> 
-</table> 
-
-<div align="center"> 
-
-### 🔔 [Subscribe for more programming tutorials and tech content!](https://youtube.com/@YourChannelName)
-
-</div>
-
-</div>
-
-
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/e1aa916d-e323-419b-9b3b-becbdbaaad60" alt="Rayen Marzouk" width="480" />
-</div>
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
-
-## 📊 Profile Views
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blueviolet&style=flat-square&label=Profile+Views)
-  
 </div>
 
 ---
 
+## 👋 About Me
+
+I'm a **Full-Stack Developer** and **UX/UI Designer** from Monastir, Tunisia, currently pursuing a **Master's in Cloud Computing & DevOps** at ISET Sousse. I build end-to-end products — from Figma prototypes to deployed cloud-native applications — and I love bridging the gap between clean design and robust engineering.
+
+- 🎓 **Master in Cloud Computing & DevOps** — ISET Sousse (2025–Present)
+- 🏗️ Building **mobile-first platforms** with Flutter, React & Node.js
+- ☁️ AWS Certified (Cloud Developing + Cloud Security Foundations)
+- 🤖 Integrating **AI/ML** (RAG, TensorFlow Lite, Gemini AI) into real products
+- 🎙️ Organizer at **GDG Monastir** · IT Content Creator on YouTube
+- ⚡ Fun fact: I think every bug is just an undiscovered feature!
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### Design & AI
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🛍️ Tous Pour Vous — Mobile-First Marketplace
+> PFE Internship @ BigUp · Feb–May 2025
+
+A multi-vendor platform for selling products/services, booking appointments, and processing payments via the **Flouci API**. Includes an **RAG-based AI chatbot** for smart user assistance.
+
+`Flutter` `React` `Node.js` `Express` `Supabase` `FastAPI` `RAG` `Figma`
+
+---
+
+### 🩸 Blood Donation Platform — Real-Time Community App
+> Internship @ HANNABIL School · Jan–Feb 2024
+
+Community-driven web app connecting blood donors with recipients in real time, featuring live request sharing, user profiles, and feedback systems.
+
+`MongoDB` `Express` `Angular` `Node.js` `Socket.IO`
+
+---
+
+### 🌿 AI Plant Disease Detection App
+> Samsung Innovation Campus Capstone Project
+
+Cross-platform Flutter app with an **on-device EfficientNet (TensorFlow Lite)** model classifying **38 plant conditions** from leaf photos, with offline inference and **Google Gemini AI** treatment recommendations.
+
+`Flutter` `TensorFlow Lite` `EfficientNet` `Firebase` `Supabase` `Python`
+
+---
+
+### 🗓️ Time Master — Automated Schedule Generator
+> Academic Team Project
+
+Web + mobile app that auto-generates optimized timetables for students and teachers based on constraints (availability, rooms, subjects). Built with Agile SCRUM using Jira & Slack.
+
+`NestJS` `Angular` `MySQL` `Flutter` `Figma`
+
+---
+
+### 🚚 Logistics Platform UX/UI — BigUp (Part-time)
+> Figma · Cross-Platform Design
+
+Complete UI for a logistics management app: driver mobile flows (mission tracking, CMR capture, cargo types) and an admin web dashboard. Responsive, field-ready design.
+
+`Figma` `UX/UI Design` `Mobile-First`
+
+---
+
+### 🛒 Bayateck E-commerce — UX/UI Design (Freelance)
+> Figma · Tech & Mobile Store
+
+Full e-commerce design system: public vitrine + admin dashboard for a tech and mobile products store. Clean hierarchy, responsive navigation, and modern brand identity.
+
+`Figma` `E-commerce UX` `Dashboard Design`
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Period |
+|--------|------------|--------|
+| 🎓 Master — Cloud Computing & DevOps | ISET Sousse University | 2025 – Present |
+| 🎓 Bachelor's — Information Systems Development | ISET Sousse University | 2022 – 2025 |
+
+---
+
+## 📜 Certifications
+
+| Certificate | Issuer | Date |
+|------------|--------|------|
+| ☁️ AWS Academy Cloud Developing | AWS Academy | Apr 2026 |
+| 🔐 AWS Academy Cloud Security Foundations | AWS Academy | Apr 2026 |
+| 🐳 Docker Training Course | kloudkode | Apr 2026 |
+| 🐙 GitHub Foundations | DataCamp | Oct 2025 |
+| 🤖 Introduction to Generative AI | Databricks | Sep 2025 |
+| ☁️ Getting Started with GCP (Level 1) | Google Skills | Apr 2024 |
+
+---
+
+## 🏕️ Bootcamps
+
+**🤖 Samsung Innovation Campus — AI Bootcamp** *(6 months)*  
+Intensive program covering machine learning, deep learning, and applied AI with hands-on capstone project.
+
+**☁️ GAME — AWS Solutions Architect Bootcamp** *(3 months)*  
+Practical experience designing scalable, secure, and cost-optimized cloud architectures; preparation for AWS Solutions Architect Associate certification.
+
+---
+
+## 📺 Latest YouTube Videos
+
 <div align="center">
-  <h3>⭐ If you like my work, consider giving a star to my repositories! ⭐</h3>
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Bottom SVG" />
+
+| | |
+|---|---|
+| [![ORM Comparison](https://img.youtube.com/vi/kdsvEuXJWjU/mqdefault.jpg)](https://youtu.be/kdsvEuXJWjU) | [![Scrum Agile](https://img.youtube.com/vi/C3Aauq3T-dg/mqdefault.jpg)](https://youtu.be/C3Aauq3T-dg) |
+| **[TypeORM vs Prisma vs Sequelize](https://youtu.be/kdsvEuXJWjU)** · 438 views | **[What is Scrum — Agile Method](https://youtu.be/C3Aauq3T-dg)** · 105 views |
+| [![Figma Behance](https://img.youtube.com/vi/pxtOv_D1Klk/mqdefault.jpg)](https://youtu.be/pxtOv_D1Klk) | [![HTML accesskey](https://img.youtube.com/vi/ixi9KLdBfFQ/mqdefault.jpg)](https://youtu.be/ixi9KLdBfFQ) |
+| **[Design a Behance Cover in Figma](https://youtu.be/pxtOv_D1Klk)** · 334 views | **[accesskey Attribute in HTML](https://youtu.be/ixi9KLdBfFQ)** · 88 views |
+
+🔔 **[Subscribe for more dev tutorials →](https://www.youtube.com/@MarzoukRayen)**
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RayenMarzouk6&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayenMarzouk6&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RayenMarzouk6&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🌍 Activities & Community
+
+- 🎙️ **Organizer** — GDG Monastir *(2026–Present)*
+- 📣 **Social Media Manager** — Youx Academy *(2025–Present)*
+- 📣 **Social Media Manager** — TUNSA Club ISET So *(2024–2025)*
+- 📹 **IT Content Creator** — YouTube [@MarzoukRayen](https://www.youtube.com/@MarzoukRayen)
+
+---
+
+<div align="center">
+
+**Open to full-time roles, freelance projects, and collaborations.**
+
+[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-1D9E75?style=for-the-badge)](https://marzoukrayen.netlify.app/)
+[![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marzoukrayen99@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=RayenMarzouk6&color=1D9E75&style=flat-square&label=Profile+Views)
+
 </div>
