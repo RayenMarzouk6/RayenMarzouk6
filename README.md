@@ -11,7 +11,7 @@
 
 ### Full-Stack Developer · Cloud & DevOps · UX/UI Designer · IT Content Creator
 <img src="./images/Rayen1.gif" alt="Rayen Marzouk" width="48%" />
-<img src="./images/Rayen2.gif" alt="Rayen Marzouk" width="48%" />
+<img src="./images/rayen2.gif" alt="Rayen Marzouk" width="48%" />
 
 
 
