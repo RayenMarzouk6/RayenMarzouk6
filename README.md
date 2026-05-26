@@ -17,7 +17,8 @@ I'm an **IT student** driven by my thirst for knowledge and deep passion for lea
 - 🎯 My goal is to become a **proficient software developer**
 - ⚡ Fun fact: I believe every bug is just an undiscovered feature!
 
-![me](./images/RayenMarzouk.gif)
+![me](./images/Rayen1.gif)
+![me](./images/Rayen2.gif)
 
 ## ⚡️ Where to find me
 
