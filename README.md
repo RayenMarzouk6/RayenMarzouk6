@@ -6,6 +6,8 @@
   <img align="right" src="https://github.com/user-attachments/assets/3a1cfee4-53ff-49b1-ac3e-73f884df6d29" alt="Rayen Marzouk" width="400" />
 </div>
 
+
+
 ## 🚀 About Me
 
 I'm an **IT student** driven by my thirst for knowledge and deep passion for learning new things about software development. I enjoy diving into new challenges for the purpose of learning and growing as a developer.
@@ -14,6 +16,8 @@ I'm an **IT student** driven by my thirst for knowledge and deep passion for lea
 - 💻 I love working on **Full-Stack Development** projects
 - 🎯 My goal is to become a **proficient software developer**
 - ⚡ Fun fact: I believe every bug is just an undiscovered feature!
+
+![me](./images/RayenMarzouk.gif)
 
 ## ⚡️ Where to find me
 
