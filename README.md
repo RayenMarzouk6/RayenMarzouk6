@@ -121,62 +121,6 @@ I'm a **Full-Stack Developer** and **UX/UI Designer** from Monastir, Tunisia, cu
 
 ----
 
-## 🚀 Featured Projects
-
-### 🛍️ Tous Pour Vous — Mobile-First Marketplace
-> PFE Internship @ BigUp · Feb–May 2025
-
-A multi-vendor platform for selling products/services, booking appointments, and processing payments via the **Flouci API**. Includes an **RAG-based AI chatbot** for smart user assistance.
-
-`Flutter` `React` `Node.js` `Express` `Supabase` `FastAPI` `RAG` `Figma`
-
----
-
-### 🩸 Blood Donation Platform — Real-Time Community App
-> Internship @ HANNABIL School · Jan–Feb 2024
-
-Community-driven web app connecting blood donors with recipients in real time, featuring live request sharing, user profiles, and feedback systems.
-
-`MongoDB` `Express` `Angular` `Node.js` `Socket.IO`
-
----
-
-### 🌿 AI Plant Disease Detection App
-> Samsung Innovation Campus Capstone Project
-
-Cross-platform Flutter app with an **on-device EfficientNet (TensorFlow Lite)** model classifying **38 plant conditions** from leaf photos, with offline inference and **Google Gemini AI** treatment recommendations.
-
-`Flutter` `TensorFlow Lite` `EfficientNet` `Firebase` `Supabase` `Python`
-
----
-
-### 🗓️ Time Master — Automated Schedule Generator
-> Academic Team Project
-
-Web + mobile app that auto-generates optimized timetables for students and teachers based on constraints (availability, rooms, subjects). Built with Agile SCRUM using Jira & Slack.
-
-`NestJS` `Angular` `MySQL` `Flutter` `Figma`
-
----
-
-### 🚚 Logistics Platform UX/UI — BigUp (Part-time)
-> Figma · Cross-Platform Design
-
-Complete UI for a logistics management app: driver mobile flows (mission tracking, CMR capture, cargo types) and an admin web dashboard. Responsive, field-ready design.
-
-`Figma` `UX/UI Design` `Mobile-First`
-
----
-
-### 🛒 Bayateck E-commerce — UX/UI Design (Freelance)
-> Figma · Tech & Mobile Store
-
-Full e-commerce design system: public vitrine + admin dashboard for a tech and mobile products store. Clean hierarchy, responsive navigation, and modern brand identity.
-
-`Figma` `E-commerce UX` `Dashboard Design`
-
----
-
 ## 🎓 Education
 
 | Degree | Institution | Period |
@@ -206,23 +150,6 @@ Intensive program covering machine learning, deep learning, and applied AI with 
 
 **☁️ GAME — AWS Solutions Architect Bootcamp** *(3 months)*  
 Practical experience designing scalable, secure, and cost-optimized cloud architectures; preparation for AWS Solutions Architect Associate certification.
-
----
-
-## 📺 Latest YouTube Videos
-
-<div align="center">
-
-| | |
-|---|---|
-| [![Scrum Agile](https://img.youtube.com/vi/C3Aauq3T-dg/mqdefault.jpg)](https://youtu.be/C3Aauq3T-dg?si=1mxErriw66BfQ95g) | [![Architecture](https://img.youtube.com/vi/qvnhtFGboBw/mqdefault.jpg)](https://youtu.be/qvnhtFGboBw?si=vhw2BJnAWtZubc4d) |
-| **[شنوة Scrum؟ — Méthodologie Agile ببساطة](https://youtu.be/C3Aauq3T-dg?si=1mxErriw66BfQ95g)** · 2,057 views · 98 👍 | **[كيفاش تختار Architecture للـ Project؟ MVC, MVVM, MVP](https://youtu.be/qvnhtFGboBw?si=vhw2BJnAWtZubc4d)** · 863 views · 62 👍 |
-| [![RAG](https://img.youtube.com/vi/o0V4fYms7kQ/mqdefault.jpg)](https://youtu.be/o0V4fYms7kQ?si=PXSpIlsRgzunKFea) | [![ORM Comparison](https://img.youtube.com/vi/kdsvEuXJWjU/mqdefault.jpg)](https://youtu.be/kdsvEuXJWjU?si=Oq1kiDNzlmD-9tel) |
-| **[RAG Explained — FAISS, LangChain, Fine-Tuning (بالتونسي)](https://youtu.be/o0V4fYms7kQ?si=PXSpIlsRgzunKFea)** · 671 views · 63 👍 | **[شنوة ORM؟ — TypeORM vs Prisma vs Sequelize](https://youtu.be/kdsvEuXJWjU?si=Oq1kiDNzlmD-9tel)** · 716 views · 26 👍 |
-
-🔔 **[Subscribe for more dev tutorials →](https://www.youtube.com/@MarzoukRayen)**
-
-</div>
 
 
 ---
