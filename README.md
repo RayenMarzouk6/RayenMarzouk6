@@ -35,7 +35,6 @@ I'm a **Full-Stack Developer** and **UX/UI Designer** from Monastir, Tunisia, cu
 - ☁️ AWS Certified (Cloud Developing + Cloud Security Foundations)
 - 🤖 Integrating **AI/ML** (RAG, TensorFlow Lite, Gemini AI) into real products
 - 🎙️ Organizer at **GDG Monastir** · IT Content Creator on YouTube
-- ⚡ Fun fact: I think every bug is just an undiscovered feature!
 
 ---
 
