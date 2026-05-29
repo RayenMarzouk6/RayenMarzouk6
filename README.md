@@ -88,6 +88,39 @@ I'm a **Full-Stack Developer** and **UX/UI Designer** from Monastir, Tunisia, cu
 
 ---
 
+---
+
+## 📺 Latest YouTube Videos
+
+<div align="center">
+
+| | |
+|---|---|
+| [![Scrum Agile](https://img.youtube.com/vi/C3Aauq3T-dg/mqdefault.jpg)](https://youtu.be/C3Aauq3T-dg?si=1mxErriw66BfQ95g) | [![Architecture](https://img.youtube.com/vi/qvnhtFGboBw/mqdefault.jpg)](https://youtu.be/qvnhtFGboBw?si=vhw2BJnAWtZubc4d) |
+| **[شنوة Scrum؟ — Méthodologie Agile ببساطة](https://youtu.be/C3Aauq3T-dg?si=1mxErriw66BfQ95g)** · 2,057 views · 98 👍 | **[كيفاش تختار Architecture للـ Project؟ MVC, MVVM, MVP](https://youtu.be/qvnhtFGboBw?si=vhw2BJnAWtZubc4d)** · 863 views · 62 👍 |
+| [![RAG](https://img.youtube.com/vi/o0V4fYms7kQ/mqdefault.jpg)](https://youtu.be/o0V4fYms7kQ?si=PXSpIlsRgzunKFea) | [![ORM Comparison](https://img.youtube.com/vi/kdsvEuXJWjU/mqdefault.jpg)](https://youtu.be/kdsvEuXJWjU?si=Oq1kiDNzlmD-9tel) |
+| **[RAG Explained — FAISS, LangChain, Fine-Tuning (بالتونسي)](https://youtu.be/o0V4fYms7kQ?si=PXSpIlsRgzunKFea)** · 671 views · 63 👍 | **[شنوة ORM؟ — TypeORM vs Prisma vs Sequelize](https://youtu.be/kdsvEuXJWjU?si=Oq1kiDNzlmD-9tel)** · 716 views · 26 👍 |
+
+🔔 **[Subscribe for more dev tutorials →](https://www.youtube.com/@MarzoukRayen)**
+
+</div>
+
+
+---
+
+## 🎤 Workshop Recordings
+
+<div align="center">
+
+| | |
+|---|---|
+| [![Design Like a Googler](https://img.youtube.com/vi/pD_5rOPyWV4/mqdefault.jpg)](https://youtu.be/pD_5rOPyWV4?si=rGkyVfbvb35QH23a) | [![UX/UI for Cloud](https://img.youtube.com/vi/KDTmCiD6LfA/mqdefault.jpg)](https://youtu.be/KDTmCiD6LfA?si=gwtnG_o_cf8uc-Sp) |
+| **[Design Like a Googler with Figma & AI](https://youtu.be/pD_5rOPyWV4?si=rGkyVfbvb35QH23a)** · [GDG On Campus ISAMM](https://www.youtube.com/@GDGOnCampusISAMM) | **[UX/UI for Cloud with Figma & AI Workshop](https://youtu.be/KDTmCiD6LfA?si=gwtnG_o_cf8uc-Sp)** · Youx Academy |
+
+</div>
+
+----
+
 ## 🚀 Featured Projects
 
 ### 🛍️ Tous Pour Vous — Mobile-First Marketplace
